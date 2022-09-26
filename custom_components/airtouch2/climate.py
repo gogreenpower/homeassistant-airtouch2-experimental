@@ -35,6 +35,7 @@ AT2_TO_HA_MODE = {
 
 AT2_TO_HA_FAN_SPEED = {
     ACFanSpeed.AUTO: FAN_AUTO,
+    ACFanSpeed.LOW: FAN_DIFFUSE,   
     ACFanSpeed.QUIET: FAN_LOW,
     ACFanSpeed.MEDIUM: FAN_MEDIUM,
     ACFanSpeed.HIGH: FAN_HIGH,
